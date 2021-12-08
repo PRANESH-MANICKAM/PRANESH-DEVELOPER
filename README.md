@@ -9,7 +9,7 @@
 
 - Contact Me With **praneshdeveloper2022@gmail.com**
 
-- ⚡ Fun fact **Taking Code As Serious ,This Is My Funny Thing.**
+- Fun fact **Taking Code As Serious ,This Is My Funny Thing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
