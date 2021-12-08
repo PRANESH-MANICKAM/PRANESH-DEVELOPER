@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm PRANESH-DEVELOPER</h1>
 <h3 align="center">A Man Trying To Figure-Out Stuff.</h3>
 
-- 📫 How to reach me **praneshdeveloper2022@gmail.com**
+- I'M Currently Working On **Open Source Project , Web Developing**
+
+- I'M Currently Learning **JAVASCRIPT**
+
+- I'M Looking Collaborate on **More Open Source Project**
+
+- Contact Me With **praneshdeveloper2022@gmail.com**
 
 - ⚡ Fun fact **Taking Code As Serious ,This Is My Funny Thing.**
 
